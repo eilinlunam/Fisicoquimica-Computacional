@@ -1,1 +1,3 @@
 # Fisicoquímica Computacional
+
+Author: EilinLunaM
