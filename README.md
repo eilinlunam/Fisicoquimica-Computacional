@@ -14,7 +14,10 @@ La solución analítica exacta de la ecuación de Schrödinger es posible en poc
 3. Aproximación de Hartree Fock.  
   (Ejemplo: El átomo de helio)  
 
-4. Aproximación de Tight Binding.
-  (Ejemplo: Punto cuánticos triangulares)
+4. Aproximación de Tight Binding.  
+  (Ejemplo: Punto cuánticos triangulares)  
+
+5. Sistema periódico en el grafeno  
+  (Cálculo de las energías mediante Tight Binging)  
 
 Autor: @eilinlunam
