@@ -15,9 +15,21 @@ La solución analítica exacta de la ecuación de Schrödinger es posible en poc
   (Ejemplo: El átomo de helio)  
 
 4. Aproximación de Tight Binding.  
-  (Ejemplo: Punto cuánticos triangulares)  
+	+ Cálculo de energías en puntos cuánticos triangulares.  
+	+ Cálculo de energías en puntos cuánticos triangulares superpuestos.  
+	+ Cálculo de energías en puntos cuánticos triangulares con vacantes.  
+	+ Lectura y escritura de archivos (XYZ)  
+	+ Anexos: Creación puntos cuánticos hexagonales, cuadrados, circulares.  
+			  Introducción al uso del paquete Pybinding.  
 
 5. Sistema periódico en el grafeno  
-  (Cálculo de las energías mediante Tight Binging)  
+	+ Cálculo de las energías mediante Tight Binging  
+
+6. Integral Montecarlo.  
+   (Ejemplo: El átomo de hidrógeno - Método variacional)  
+
+7. Algoritmo Metrópolis Hasting.  
+   (Ejemplo: El átomo de hidrógeno - Método variacional)  
+   (Ejemplo: Partícula en potencial Morse unidimensional)  
 
 Autor: @eilinlunam
